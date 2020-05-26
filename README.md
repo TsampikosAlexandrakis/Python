@@ -1,2 +1,2 @@
 # Python
-My python projects for school
+Python projects that someone asked me to make for them
